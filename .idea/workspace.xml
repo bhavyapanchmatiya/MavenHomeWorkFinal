@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="78ce077d-03a3-48b6-a66a-7342d15ce272" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../xyz/Maven.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Locators/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Locators/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Locators/src/AppleMacBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Locators/src/AppleMacBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test1/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test1/Test1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test1/src/main/Resources/BrowserDriver/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellojava/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hellojava/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellojava/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hellojava/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellojava/src/Q10CityNames.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellojava/src/Q11VoteEligibilty.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellojava/src/Q12UpperLowerCase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellojava/src/Q13InputTwoNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellojava/src/Q14AlphabetOrSymbol.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellojava/src/Q15DayOfWeek.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellojava/src/Q16VowelOrConsonant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellojava/src/Q1TernaryOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellojava/src/Q2LeapYear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellojava/src/Q3and4StudentMarks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellojava/src/Q5InterchangedValues.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellojava/src/Q6GrossSalary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellojava/src/Q7AverageFiveNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellojava/src/Q8PositiveNegativeZero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellojava/src/Q9SalesAmount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xyz/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../xyz/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xyz/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../xyz/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xyz/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../xyz/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xyz/MavenHomeWork.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MavenHomeWorkFinal.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xyz/src/main/java/HomeWorkMaven/HomeWorkFiveTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../xyz/src/main/java/HomeWorkMaven/HomeWorkFiveTest.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-391">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/HomeWorkFiveTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2873">
+              <caret line="169" column="4" lean-forward="true" selection-start-line="169" selection-start-column="4" selection-end-line="169" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/MavenHomeWorkFinal/AppTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HomeWorkFiveTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
+        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/selenium_server_standalone_3_141_59.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="76" />
+    <option name="width" value="1346" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MavenHomeWorkFinal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MavenHomeWorkFinal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MavenHomeWorkFinal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MavenHomeWorkFinal" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MavenHomeWorkFinal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MavenHomeWorkFinal" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MavenHomeWorkFinal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MavenHomeWorkFinal" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MavenHomeWorkFinal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MavenHomeWorkFinal" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="MavenHomeWorkFinal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MavenHomeWorkFinal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MavenHomeWorkFinal" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MavenHomeWorkFinal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MavenHomeWorkFinal" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+              <item name="BrowserDriver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MavenHomeWorkFinal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MavenHomeWorkFinal" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MavenHomeWorkFinal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MavenHomeWorkFinal" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MavenHomeWorkFinal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MavenHomeWorkFinal" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="MavenHomeWorkFinal" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="C:/SOFT/selenium-server-standalone-3.141.59.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\DEV\MavenHomeWorkFinal\src\main\Resources\BrowserDriver" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.HomeWorkFiveTest">
+    <configuration name="HomeWorkFiveTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MavenHomeWorkFinal" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HomeWorkFiveTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWorkFiveTest.UserShouldBeNavigateToCameraAndPhotoPage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MavenHomeWorkFinal" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HomeWorkFiveTest" />
+      <option name="METHOD_NAME" value="UserShouldBeNavigateToCameraAndPhotoPage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.HomeWorkFiveTest" />
+        <item itemvalue="TestNG.HomeWorkFiveTest.UserShouldBeNavigateToCameraAndPhotoPage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78ce077d-03a3-48b6-a66a-7342d15ce272" name="Default Changelist" comment="" />
+      <created>1568381141154</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568381141154</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="HomeWorkFiveTest - 2019.09.13 at 14h 47m 50s.xml">
+      <configuration name="HomeWorkFiveTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HomeWorkFiveTest - 2019.09.13 at 14h 50m 01s.xml">
+      <configuration name="HomeWorkFiveTest" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.3289689" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-391">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/MavenHomeWorkFinal/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeWorkFiveTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2873">
+          <caret line="169" column="4" lean-forward="true" selection-start-line="169" selection-start-column="4" selection-end-line="169" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>selenium-server-standalone-3.141.59</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
